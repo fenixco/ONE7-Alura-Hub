@@ -6,7 +6,7 @@
 
    ![Estado del Proyecto](https://img.shields.io/badge/Estado-Terminado-green)
    ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green)
-   ![GitHub Org's stars](https://img.shields.io/github/stars/fica-millan?style=social)
+   ![GitHub Org's stars](https://img.shields.io/github/stars/fenixco?style=social)
    <br>
    ![Java Version](https://img.shields.io/badge/Java-17-orange)
    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.5-brightgreen)
@@ -85,7 +85,7 @@ Puede acceder a la API de Foro Hub localmente siguiendo estos pasos:
 
 1. Clonar el Repositorio:
 ```bash
-git clone https://github.com/Fica-Millan/alura_ForoHub.git
+git clone https://github.com/fenixco/ONE7-Alura-Hub
 ```
 
 2. Ejecutar la Aplicación:
